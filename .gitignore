@@ -1,0 +1,5 @@
+build/
+*.o
+tests/dsp_test
+tests/dsp_asan
+tests/perf
